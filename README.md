@@ -2,7 +2,7 @@
 
 <h1> RoboCapture: A Unified Pipeline for Automated Robotic Data Collection </h1>
 
-<h5 align="center">
+<div align="center">
 
 ## Overview
 
