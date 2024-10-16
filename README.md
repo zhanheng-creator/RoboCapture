@@ -14,13 +14,13 @@ Framework overview for RoboCapture. RoboCapture is adept at acquiring images fro
 
 Our code is divided into five parts: task generation and task planning, instruction fine-tuning, simulator data collection, real-world data collection, and the RT-1 model. The usage tutorial and code are currently being organized. Here are the usage tutorials for the different modules in our paper.
 
-- [task generation and task planning](./md/task generation and task planning.md)
+- [task generation and task planning](./md/task_generation_and_task_planning.md)
 
-- [instruction fine-tuning](./md/instruction fine-tuning.md)
+- [instruction fine-tuning](./md/instruction_fine-tuning.md)
 
-- [simulator data collection](./md/simulator data collection.md)
+- [simulator data collection](./md/simulator_data_collection.md)
 
-- [real-world data collection](./md/real-world data collection.md)
+- [real-world data collection](./md/real-world_data_collection.md)
 
 - [RT-1](./md/RT-1.md)
 
