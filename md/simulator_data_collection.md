@@ -81,6 +81,6 @@ python fangzhen_urdf_change_cube_vedio.py
 
 
 
-https://github.com/zhanheng-creator/RoboCapture/blob/master/vedio/Simulator_Data_Collection.mp4
+https://github.com/user-attachments/assets/4f7b001a-2042-4a98-9e46-6b51b9a78c99
 
 
