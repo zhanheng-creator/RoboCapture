@@ -79,6 +79,10 @@ CAM_INFO = {
 python fangzhen_urdf_change_cube_vedio.py
 ```
 
-<video src="../vedio/Simulator_Data_Collection.mp4" controls></video>
+
+<video src="https://github.com/zhanheng-creator/RoboCapture/blob/master/vedio/Simulator_Data_Collection.mp4" autoplay="true" controls="controls" width="800" height="600">
+</video>
+
+
 
 
