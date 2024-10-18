@@ -20,8 +20,6 @@ parser.add_argument('--checkpoint_path', default="/home/taizun/embodiedAI/graspn
 data_dir = '/home/taizun/embodiedAI/graspnet-baseline/doc/mydata'
 ```
 
-
-
 ## File configuration
 
 ### Related files
@@ -66,7 +64,6 @@ CAM_INFO = {
     def load_env(self):
         p.loadURDF("table/table.urdf", [0, 0.35, 0], [0, 0, 0, 1])
         self.tar_obj = p.loadURDF("urdf/plastic_apple/model.urdf", [0, 0, 0], globalScaling=0.75)
-
 ```
 
 3、Set the initial position and orientation of the grasping object.
@@ -82,6 +79,6 @@ CAM_INFO = {
 python fangzhen_urdf_change_cube_vedio.py
 ```
 
-<iframe height=498 width=510 src="../vedio/Simulator_Data_Collection.mp4">
+<video src="../vedio/Simulator_Data_Collection.mp4" controls></video>
 
 
